@@ -36,6 +36,7 @@ Sou muito fã de Futebol, histórias sobre mitologias, e sempre rodando algum jo
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="150" alt="Google Developer Program premium tier">
   </a>
 </p>
+
 ---
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley555&layout=compact&theme=dracula)
