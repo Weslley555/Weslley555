@@ -28,9 +28,14 @@ Sou muito fã de Futebol, histórias sobre mitologias, e sempre rodando algum jo
 [LinkedIn](https://www.linkedin.com/in/weslley-dias-26921730a) · [Email](mailto:weslleyh.dias@gmail.com)
 
 ### 🏅 Selos
-[![Google Cloud & NVIDIA community member](https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg)](https://developers.google.com/profile/badges/nvidia-developer)
-[![Google Developer Program premium tier](https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg)](https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus)
-
+<p>
+  <a href="https://developers.google.com/profile/badges/nvidia-developer">
+    <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="150" alt="Google Cloud & NVIDIA community member">
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="150" alt="Google Developer Program premium tier">
+  </a>
+</p>
 ---
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley555&layout=compact&theme=dracula)
