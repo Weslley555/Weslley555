@@ -24,7 +24,6 @@ Formado em Análise e Desenvolvimento de Sistemas (ADS), hoje conectando três f
 Sou muito fã de Futebol, histórias sobre mitologias, e sempre rodando algum jogo nas horas vagas.
 
 ### 📫 Contato
-
 [LinkedIn](https://www.linkedin.com/in/weslley-dias-26921730a) · [Email](mailto:weslleyh.dias@gmail.com)
 
 ### 🏅 Selos
