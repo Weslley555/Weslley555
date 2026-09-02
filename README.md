@@ -38,4 +38,4 @@ Sou muito fã de Futebol, histórias sobre mitologias, e sempre rodando algum jo
 
 ---
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley555&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=Weslley555&layout=compact&theme=dracula)
